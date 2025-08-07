@@ -94,9 +94,9 @@ To get this application running on your local machine, follow these steps:
     Your web browser will automatically open to the application's local URL.
 
 ## 📂 Project Structure
-├── app.py                  # The main Streamlit application script
-├── requirements.txt        # Python dependencies for deployment
-├── clf.pkl                 # Trained classifier model
-├── tfidf.pkl               # Trained TF-IDF vectorizer
-├── encoder.pkl             # Trained LabelEncoder
-└── README.md               # Project documentation
+├── app.py                 
+├── requirements.txt       
+├── clf.pkl                
+├── tfidf.pkl              
+├── encoder.pkl            
+└── README.md             
