@@ -31,33 +31,33 @@ An intelligent web application that harnesses the power of Machine Learning to a
 <div align="center">
   <table>
     <tr>
-      <td align="center">
+      <td align="center" width="150">
         <a href="https://www.python.org/" target="_blank">
-          <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="50px">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" width="50px">
         </a>
         <br><strong>Python</strong>
       </td>
-      <td align="center">
+      <td align="center" width="150">
         <a href="https://streamlit.io/" target="_blank">
-          <img src="https://www.vectorlogo.zone/logos/streamlit/streamlit-icon.svg" alt="Streamlit" width="50px">
+          <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" alt="Streamlit" width="50px">
         </a>
         <br><strong>Streamlit</strong>
       </td>
-      <td align="center">
+      <td align="center" width="150">
         <a href="https://scikit-learn.org/" target="_blank">
-          <img src="https://www.vectorlogo.zone/logos/scikit-learn/scikit-learn-icon.svg" alt="Scikit-learn" width="50px">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Scikit-learn" width="50px">
         </a>
         <br><strong>Scikit-learn</strong>
       </td>
-      <td align="center">
+      <td align="center" width="150">
         <a href="https://pandas.pydata.org/" target="_blank">
-          <img src="https://www.vectorlogo.zone/logos/pandas-dev/pandas-dev-icon.svg" alt="Pandas" width="50px">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" alt="Pandas" width="50px">
         </a>
         <br><strong>Pandas</strong>
       </td>
-      <td align="center">
+      <td align="center" width="150">
         <a href="https://render.com/" target="_blank">
-          <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" alt="Render" width="50px">
+          <img src="https://avatars.githubusercontent.com/u/44933556?s=200&v=4" alt="Render" width="50px">
         </a>
         <br><strong>Render</strong>
       </td>
